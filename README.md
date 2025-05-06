@@ -70,8 +70,8 @@ npm run deploy
 
 ### 2025-05-02
 
-- 现在如果存在相同名称的代理，会自动进行重命名([#175](https://github.com/7Sageer/sublink-worker/pull/175))
-- 修复Singbox的DNS配置([#174](https://github.com/7Sageer/sublink-worker/pull/174))
+- 现在如果存在相同名称的代理，会自动进行重命名([#175](https://github.com/mysticfreely/sublink-worker/pull/175))
+- 修复Singbox的DNS配置([#174](https://github.com/mysticfreely/sublink-worker/pull/174))
 
 ## 🔧 项目结构
 
